@@ -28,7 +28,7 @@ Alternatively, you can:
 
 ## **The @ alias**
 
-- Remember to add the @ alias for the root folder in `jsconfig.json`
+- Remember to add the @ alias for the root folder in `jsconfig.json` or `tsconfig.json`:
 
 ```json
 {
